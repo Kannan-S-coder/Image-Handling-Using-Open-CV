@@ -1,3 +1,5 @@
+**Name:** Kannan.S   **Reg. No:** 212223230098
+
 # Image-Handling-and-Pixel-Transformations-Using-OpenCV 
 
 ## AIM:
